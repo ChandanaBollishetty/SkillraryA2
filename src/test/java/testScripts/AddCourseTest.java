@@ -5,6 +5,7 @@ import java.util.Map;
 import org.testng.annotations.Test;
 
 import GenericUtilities.BaseClass;
+//This test verifies if user is able to add course
 
 public class AddCourseTest extends BaseClass {
 	
